@@ -1,0 +1,1 @@
+# GFXPlugin-Scrapper
